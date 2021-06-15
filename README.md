@@ -17,7 +17,7 @@ and open this file.
 # Installation
 To open EasyCalc like Windows app, go to
 ```
-easy_calc/project/easy_calc.exe
+easy_calc/easy_calc.exe
 ```
 and run this exe file.
 
